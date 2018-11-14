@@ -1,5 +1,4 @@
 {
-  "private": false,
   "name": "stage-release",
   "version": "1.19",
   "dependencies": {
